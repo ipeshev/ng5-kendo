@@ -12,7 +12,7 @@ import { InputsModule } from '@progress/kendo-angular-inputs';
  *  ERROR in /home/tsonev/tmp/ng5-test1/src/$$_gendir/node_modules/@progress/kendo-angular-inputs/dist/es/switch/switch.component.ngfactory.ts (15,21): Cannot find module '../../../../kendo-angular-resize-sensor/dist/es/resize-sensor.component.ngfactory'.
  *
  */
-import { ResizeSensorModule } from '@progress/kendo-angular-resize-sensor';
+// import { ResizeSensorModule } from '@progress/kendo-angular-resize-sensor';
 
 import { AppComponent } from './app.component';
 
